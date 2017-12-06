@@ -6,7 +6,7 @@ Dec  5 22:09:29 sam-ubuntu-VirtualBox seqgen: Send Time-stamped Image to Remote 
 Dec  5 22:09:29 sam-ubuntu-VirtualBox seqgen: Difference Image Proc thread @ sec=0, msec=639
 Dec  5 22:09:29 sam-ubuntu-VirtualBox seqgen: Time-stamp Image Save to File thread @ sec=0, msec=639
 Dec  5 22:09:29 sam-ubuntu-VirtualBox seqgen: Processed Image Save to File thread @ sec=0, msec=639
-Dec  5 22:09:29 sam-ubuntu-VirtualBox seqgen: Minute Tick Debug thread @ sec=0, msec=639
+Dec  5 22:09:29 sam-ubuntu-VirtualBox seqgen: 10 sec Tick Debug thread @ sec=0, msec=639
 Dec  5 22:09:30 sam-ubuntu-VirtualBox seqgen: Sequencer thread @ sec=1, msec=641
 Dec  5 22:09:30 sam-ubuntu-VirtualBox seqgen: Sequencer cycle 1 @ sec=1, msec=675
 Dec  5 22:09:30 sam-ubuntu-VirtualBox seqgen: Sequencer cycle 2 @ sec=1, msec=709
