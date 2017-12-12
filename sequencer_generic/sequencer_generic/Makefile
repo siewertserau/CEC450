@@ -19,10 +19,10 @@ clean:
 	-rm -f seqgen seqgen2
 
 seqgen2: seqgen2.o
-	$(CC) $(LDFLAGS) $(CFLAGS) -o $@ $@.o -lpthread
+	$(CC) $(LDFLAGS) $(CFLAGS) -o $@ $@.o -lpthread -lrt
 
 seqgen: seqgen.o
-	$(CC) $(LDFLAGS) $(CFLAGS) -o $@ $@.o -lpthread
+	$(CC) $(LDFLAGS) $(CFLAGS) -o $@ $@.o -lpthread -lrt
 
 depend:
 
